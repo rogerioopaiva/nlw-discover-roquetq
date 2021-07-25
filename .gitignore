@@ -1,0 +1,17 @@
+node_modules/
+jspm_packages/
+
+npm-debug.log
+lerna-debug.log
+
+.env
+.env.test
+.custom-env
+
+# IDE - VSCode
+.vscode-test
+.vscode/*
+
+# System Files
+.DS_Store
+Thumbs.db
