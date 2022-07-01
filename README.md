@@ -8,12 +8,11 @@
 
 # Indice
 
-- [Indice](#indice)
-  - [Sobre](#sobre)
+  - [🔖 Sobre](#-sobre)
   - [🚀 Tecnologias utilizadas](#-tecnologias-utilizadas)
   - [🗂 Como instalar o projeto](#-como-instalar-o-projeto)
 
-## Sobre
+## 🔖 Sobre
 O projeto **Rocket.q** é um sistema onde você cria sua própria sala de bate papo de forma fácil e rápida.
 Foi desenvolvido através da maratona discover da Rocketseat.
 
@@ -49,4 +48,4 @@ $ npm start
 ```
 
 ---
-<span align="center">Desenvolvido por Rogério Paiva</span>
+<p align="center">Desenvolvido por Rogério Paiva</p>
